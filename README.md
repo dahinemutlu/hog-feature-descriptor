@@ -1,0 +1,3 @@
+# HOG Feature Descriptor with Python and OpenCV
+
+With this code, I practiced the HOG algorithm/feature descriptor, which is widely used in object identification, extracted the HOG feature vector from an image using the Python programming language and the OpenCV library. I tried to visualize and present the HOG algorithm/feature descriptor by analyzing the HOG image and histograms looking at a closer scale. You can access my Medium blog page [here](https://medium.com/@dnemutlu/hog-feature-descriptor-263313c3b40d) for a detailed explanation of the code.
